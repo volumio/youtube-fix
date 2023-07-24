@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "mdns-js": "^1.0.3",
     "socket.io-client": "^1.7.4"
   }
 }
